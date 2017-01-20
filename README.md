@@ -3,6 +3,7 @@
 ![](https://upload.wikimedia.org/wikipedia/fi/2/2e/Alanwake.jpg)
 
 |taulukko |taulukko |
+|:----|----:|
 |kissa|koira|
 |hevonen|lehmä|
 ## Alaotsikko
